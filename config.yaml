@@ -1,0 +1,3 @@
+sourceDir: "D:\\code\\src\\yato\\sync_file\\test_directory\\source"
+targetDir: "D:\\code\\src\\yato\\sync_file\\test_directory\\target"
+interval: 5 # 同步间隔时间，单位：秒
